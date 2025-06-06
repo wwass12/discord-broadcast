@@ -17,9 +17,9 @@ module.exports = {
         }
     },
     server: {
-        guildId: 'ID',         // ايدي السيرفر
-        broadcastRoleId: 'ID', // ايدي الرول اللي يستخدم عليها البوت
-        reportChannelId: 'ID' // ايدي الروم اللي يرسل فيه البوت التقارير
+        guildId: 'ID',         // 1377716689772351610 ايدي السيرفر
+        broadcastRoleId: 'ID', //1380358975693914284 ايدي الرول اللي يستخدم عليها البوت
+        reportChannelId: 'ID' // 1380358975693914284 ايدي الروم اللي يرسل فيه البوت التقارير
     },
     broadcast: {
         cooldownTime: 1000, // لا تلعب فيها
